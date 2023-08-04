@@ -1,0 +1,9 @@
+[
+  {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
+    "via": ["psborrow2"],
+    "branch": "v0.5.2",
+    "from": "psborrow2"
+  }
+]
