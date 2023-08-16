@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/genentech/genentech.r-universe.dev
 	branch = HEAD
+[submodule "psborrow2"]
+	path = psborrow2
+	url = https://github.com/Genentech/psborrow2
