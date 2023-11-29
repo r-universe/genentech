@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/genentech/genentech.r-universe.dev
 	branch = HEAD
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	branch = v0.5.2
-	registered = false
 [submodule "psborrow2"]
 	path = psborrow2
 	url = https://github.com/Genentech/psborrow2
