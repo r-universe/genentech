@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/genentech/genentech.r-universe.dev
 	branch = HEAD
+[submodule "BayesERtools"]
+	path = BayesERtools
+	url = https://github.com/Genentech/BayesERtools
 [submodule "psborrow2"]
 	path = psborrow2
 	url = https://github.com/Genentech/psborrow2
